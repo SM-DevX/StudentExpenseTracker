@@ -6,10 +6,17 @@ A simple command-line Python program that helps students track their monthly exp
 
 ## 📌 Features
 
-- ✅ Track expenses for different categories (Food, Transport, Data, Stationery, Other)
-- ✅ Automatically calculates and displays total expenses
-- ✅ Simple, interactive menu interface
-- ✅ Beginner-friendly Python code structure
+### ✅ Version 1
+- Track expenses for different categories (Food, Transport, Data, Stationery, Other)
+- Automatically calculates and displays total expenses
+- Simple, interactive command-line interface
+
+### ✅ Version 2 (NEW)
+- All features of Version 1
+- 💾 **Saves expenses to a text file** (`expenses.txt`)
+- 📆 Adds **date and time** of every entry
+- Displays full summary at the end
+
 
 ---
 
