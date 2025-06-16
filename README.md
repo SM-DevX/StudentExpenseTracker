@@ -44,10 +44,10 @@ A simple command-line Python program that helps students track their monthly exp
 
 ## 🚀 Future Improvements
 
-- Save expenses to a `.txt` or `.csv` file  
-- Add dates for each transaction  
-- Load and manage saved expenses  
-- Build a simple GUI version with **Tkinter**
+- Export expenses to `.csv`  
+- Add dates and notes for each expense  
+- Build a simple GUI version using **Tkinter**  
+- Integrate with a basic SQLite database
 
 ---
 
